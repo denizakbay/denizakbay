@@ -2,9 +2,6 @@
 <h3 align="center">A Software Developer From Istanbul/Turkey</h3>
 
 
-- 🔭 I’m currently working on **Credit Application System**
-
-- 🌱 I’m currently learning **Java Spring**
 
 - 📫 How to reach me **ddenizakbay@gmail.com**
 
