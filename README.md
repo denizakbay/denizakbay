@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/denizakbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denizakbay" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15436186/deniz-akbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deniz-akbay" height="30" width="40" /></a>
-<a href="https://instagram.com/denizakbyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denizakbyy" height="30" width="40" /></a>
 <a href="https://medium.com/@denizakbayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="denizakbayy" height="30" width="40" /></a>
 </p>
 
