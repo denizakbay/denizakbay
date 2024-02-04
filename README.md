@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
-<h3 align="center">A Software Developer From Istanbul/Turkey</h3>
+<h3 align="center">A Software Test Engineer From Istanbul/Turkey</h3>
 
 
 
